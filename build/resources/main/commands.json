@@ -1,0 +1,10 @@
+[
+  {
+    "call": "stopspam",
+    "response": "https://media.giphy.com/media/xUPJUhS2H9GYR4KRB6/giphy.gif"
+  },
+  {
+    "call": "ping",
+    "response": "Pong!"
+  }
+]
